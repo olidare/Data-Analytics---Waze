@@ -9,4 +9,4 @@ Firstly, I set out the project plan using PACE in this document below.
 
 Then I conduct Exploratory Data Analysis using Python in this Jupyter Notebook.
 
-**(Waze - Exploratory Data Analysis.ipynb)[https://github.com/olidare/Data-Analytics---Waze/blob/main/Waze%20-%20Exploratory%20Data%20Analysis.ipynb]**
+**[Waze - Exploratory Data Analysis.ipynb](https://github.com/olidare/Data-Analytics---Waze/blob/main/Waze%20-%20Exploratory%20Data%20Analysis.ipynb)**
