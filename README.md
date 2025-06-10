@@ -32,7 +32,7 @@ This Notebook is to investigate and understand the data provided to gain compreh
 * Document variable characteristics to guide subsequent analysis
 
 
-**[Waze - Hypothesis Test.ipynb]((https://github.com/olidare/Data-Analytics---Waze/blob/main/Waze%20-%20Hypothesis%20Test.ipynb))**
+**[Waze - Hypothesis Test.ipynb](https://github.com/olidare/Data-Analytics---Waze/blob/main/Waze%20-%20Hypothesis%20Test.ipynb)**
 
 
 Following EDA, we wan to further analyze the relationship between mean amount of rides and device type:
